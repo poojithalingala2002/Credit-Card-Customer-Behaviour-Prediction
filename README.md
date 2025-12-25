@@ -122,6 +122,6 @@ Python | Pandas | NumPy | Scikit-learn | SMOTE | XGBoost | Flask | HTML
 
 <h2>👤 Author</h2>
 <p>
-<b>Bala Venu</b><br>
-Data Scientist
+<b>Poojitha Lingala</b><br>
+Data Scientist Enthusiastic
 </p>
